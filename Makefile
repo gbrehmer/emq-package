@@ -1,7 +1,7 @@
 export
 
 OS            = $(shell uname -s)
-EMQ_VERSION   = 2.3authfix2
+EMQ_VERSION   = 2.3authfix3
 ##
 ## Support RPM and Debian based linux systems
 ##
